@@ -1,0 +1,9 @@
+Run PHP via command line (from taste directory):
+
+php cooking.php <csv path> <json path>
+
+
+e.g:
+
+php cooking.php data/inventory.csv data/recipe_json.txt
+
